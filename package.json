@@ -1,0 +1,12 @@
+{
+  "name": "express-message-app",
+  "version": "1.0.0",
+  "description": "A simple Express app that displays a custom message",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.0"
+  }
+}
